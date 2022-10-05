@@ -1,0 +1,19 @@
+/* 
+Theme Name: chrisKicks
+TextDomain: chrisKicks
+Author: namaste
+*/
+
+body {
+    background-color: #FFFBFC;
+    margin: 0px;
+}
+
+h1 {
+    color: lightgreen;
+}
+
+p {
+    color: lightgreen;
+}
+
